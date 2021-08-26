@@ -15,6 +15,7 @@ class SecondsPastMidnight {
 
 
         // closing the scanner object
+        //New stuff
         scanner.close();
     }
 }
